@@ -1,0 +1,3 @@
+# MyTodoListJava
+Javaで書いたToDoを管理するアプリ．
+Activity Result APIのインテント間の値受け渡しの練習も兼ねて
